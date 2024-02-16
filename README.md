@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Hamza Toptancı</h1>
 <h3 align="center">A passionate Front-end developer from Türkiye.</h3>
-<img align ="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47z0d9rxgwrc11zu9bfjx9xivilppf365llfc00si0&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align ="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjE5dnpuNDkwdWo5Y2ZxN2JybTd5YTk1NW50MWdnbnJjbDN4Y2dmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif">
 
 - 🌱 I’m currently learning **React**
 
