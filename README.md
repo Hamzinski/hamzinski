@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **toptanci.hamza@gmail.com**
 
