@@ -2,7 +2,7 @@
 <h3 align="center">A Full-stack developer candidate.</h3>
 <img align ="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjE5dnpuNDkwdWo5Y2ZxN2JybTd5YTk1NW50MWdnbnJjbDN4Y2dmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif">
 
-- 🌱 I’m currently learning **Java**.
+- 🌱 I’m currently learning **Java-Spring Boot-PostgreSQL**.
 
 - 💬 Ask me about **Javascript, React**.
 
